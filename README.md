@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <>
+   git clone <https://github.com/Kirillitha/M8L1-M8L4/tree/main>
    cd <M8L1-M8L4>
 Установите зависимости:
 
