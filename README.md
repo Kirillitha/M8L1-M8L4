@@ -176,11 +176,11 @@ config.py (опционально) — файл конфигурации, куд
 Проект распространяется под лицензией MIT. Подробнее см. в файле .
 
 Контакты
-Автор: [Ваше Имя]
+Автор: [Кирилл]
 
-GitHub: [Ваш GitHub профиль]
+GitHub: [Kirillitha]
 
-Telegram: [Ваш Telegram]
+Telegram: [@Kirill99995]
 
-Email: [Ваш Email]
+Email: [kirill.atyashev@yandex.ru]
 
