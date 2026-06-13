@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 # Инициализация бота (замените токен на свой, но лучше вынести в config.py)
-bot = telebot.TeleBot("8407192082:AAEuJ5nHN_HDoO4jcQVj0IQoidn9r9ZCUH8")
+bot = telebot.TeleBot("")
 
 # --- Вспомогательные функции ---
 
